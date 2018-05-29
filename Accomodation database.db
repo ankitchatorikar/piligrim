@@ -1,0 +1,7 @@
+ create database accomodation;
+
+create table pilgrim(UID int(12) primary key, Name varchar(50), Age int(3), Gender varchar(8), mobile_no int(10));
+
+create table room(room_no int primary key, room_type varchar(10),floor_no int);
+
+create table wuser(UID int(12),fname varchar(30),lname varchar(30),gender varchar(8),mobile_no int,username varchar(30),password varchar(100),address varchar(256));

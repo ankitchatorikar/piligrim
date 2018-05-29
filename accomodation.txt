@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body style="background-color:DarkSalmon;">
+
+<div class="m">
+<H4>Shri Gajanan Maharaj Trust,Shegaon-,dist.-Akola</H4>
+  <H1>Anand Vihar</H1> 
+<HR/>
+</div>
+
+<ul class="L1">
+  <li class="k"><a href="#Home">Home</a></li>
+  <li class="k"><a href="#Home">Accomadation</a></li>
+  <li class="k"><a href="#Home">How to Come</a></li>
+  <li class="k"><a href="#Home">Contact Us</a></li>
+  <li class="k"><a href="#Home">About Us</a></li>
+</ul>
+
+<th class="accdt">
+<tr>
+<td>
+Shri Gajanan Maharaj Sansthan, Shegaon has a separate and systematic arrangement for accommodating thousound of devotees coming from defferent parts of the country for shree's darshan.
+
+To provide this facility the Sansthan has four Bhakta Niwas (A complex for accommodation complexes; 2 of them in Mandir premises and the other four near parking.(Adjoining to Hattikhana, i.e. place of rest of Sansthan's elephant) 
+
+In Bhaktaniwas there are attached, common, double bed and deluxe rooms available in great number as per the requirement.
+
+The Sansthan has a unique system for providing accommodation at very large extent. But here the practice is on 'first come first serve' basis
+
+The devotees (three numbers min) from the same family or more than three people are eligible for the room. A prior permission from the Sansthan is mandatory for the couple to stay in Bhakta Niwas. At the peak period, an emergency arrangement of 5000 beds is made for devotees in different halls. The devotees from all the sections of the society can get accommodation in Bhakta Niwas as per the availability and rules of the Shree Sansthan.
+
+Note: The devotees must produce the Govt. or any other authentic ID proof while applying for room. 
+</td>
+<td style="border:1px solid black;text-align:center;">
+<form action="conn.php" method="post">
+USERNAME:<br>
+<input type="text" name="username"><br>
+PASSWORD:<br>
+<input type="password" name="password"><br>
+</form>
+</td>
+</tr>
+</th>
+</body>
+</html> 
